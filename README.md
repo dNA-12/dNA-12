@@ -1,3 +1,4 @@
+![MasterHead](https://cdn.discordapp.com/attachments/278296542387896321/1085341915584675840/download.jpg)
 <h1 align="center">Hey! I'm Noah Ashley</h1>
 <h3 align="center">A striving learner and phenomenal struggler.</h3>
 
