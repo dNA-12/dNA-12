@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://bestanimations.com/Sci-Fi/UFOs/ufo-flying-saucer-animated-gif-16.gif" alt="MasterHead">
+  <img src="https://media.tenor.com/images/4df876d7928328e9ab4fe47aba2f30a6/tenor.gif" alt="MasterHead">
 </div>
 <h1 align="center">Hey! I'm Noah Ashley</h1>
 <h3 align="center">A striving learner and phenomenal struggler.</h3>
