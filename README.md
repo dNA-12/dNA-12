@@ -5,6 +5,7 @@
 <h3 align="center">A striving learner and phenomenal struggler.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dna-12&label=Profile%20views&color=0e75b6&style=flat" alt="dna-12" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dna-12" alt="dna-12" /></a> </p>
+
 -- I’m currently learning: Python, Django, and SQL
 
 -- Ask me about: My journey in code and what I've worked on !
