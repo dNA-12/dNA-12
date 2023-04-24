@@ -12,7 +12,7 @@
 
 -- How to reach me: noahashley1212@gmail.com
 
--- Know about my experiences at: https://www.linkedin.com/in/noah-ashley-bb2b01262/
+-- See my experiences at: https://www.linkedin.com/in/noah-ashley-bb2b01262/
 
 -- A cool fun fact: I've been writing a novel for two years!
 
