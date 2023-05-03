@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/OeEVCJ2UqMQNO/giphy.gif">
+  <img src="https://media.giphy.com/media/xdeSydZAUvpsc/giphy.gif">
 </div>
 <h1 align="center">Hey! I'm Noah Ashley</h1>
 <h3 align="center">A striving learner and phenomenal struggler.</h3>
