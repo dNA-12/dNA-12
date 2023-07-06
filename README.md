@@ -22,7 +22,11 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 -- Python
+
 -- Django
+
 -- SQL
+
 -- HTML
--- CSS
+
+-- CSS 
